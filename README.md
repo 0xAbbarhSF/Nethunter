@@ -10,7 +10,7 @@ pkg update && pkg upgrade
 
 pkg install git -y
 
-git clone https://github.com/Z3r0-404/Nethunter
+git clone https://github.com/Star-Ford/Nethunter
 
 chmod +x Nethunter
 
@@ -24,5 +24,6 @@ the zip file is 1.2gb according to your device artch
 
 approximately needs 7gb+ of internal storage
 
+#note pls, this tool is not made my me........all credits are below
 
 ©Hax4us
